@@ -44,9 +44,5 @@
     "eslint-config-next": "^15.1.8",
     "postcss": "^8.4.47",
     "typescript": "^5"
-  },
-  "overrides": {
-    "react": "^18.2.0",
-    "react-dom": "18.2.0"
   }
 }
